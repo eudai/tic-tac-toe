@@ -1,0 +1,22 @@
+body {
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+}
+
+.message {
+	text-align: center;
+}
+
+.reset {
+	margin-top: 25;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+table button {
+	width: 100;
+	height: 100;
+	font-size: 50;
+}
